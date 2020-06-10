@@ -56,6 +56,7 @@ Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 ```bash
 cpan install LWP::UserAgent
 cpan install HTTP::Request
+python -m pip install lxml
 git clone https://github.com/HACKGM/crack-admin-site
 cd crack-admin-site
 perl XBruteForcer.pl -l list.txt -p passwords.txt 
