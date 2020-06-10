@@ -71,4 +71,4 @@ Open CMD and type the following commands:
 cd Desktop/XBruteForcer-master/
 perl XBruteForcer.pl -l list.txt -p passwords.txt 
 ```
-[T.ME/HACKGM](https://t.me/hackgm)
+channel telegram: [T.ME/HACKGM](https://t.me/hackgm)
