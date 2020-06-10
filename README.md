@@ -71,8 +71,4 @@ Open CMD and type the following commands:
 cd Desktop/XBruteForcer-master/
 perl XBruteForcer.pl -l list.txt -p passwords.txt 
 ```
-<h2>Version</h2>
-<strong>Current version is 1.3</strong>
-<strong>What's New </strong>
-<p>• speed up<p>
-<p>• Bug fixes<p>
+[T.ME/HACKGM](https://t.me/hackgm)
