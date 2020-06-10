@@ -6,10 +6,6 @@
 <a href="https://github.com/HACKGM/crack-admin-site"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
 <p> Brute Force Tool : WordPress , Joomla , DruPal , OpenCart , Magento </p>
 
-<h2>XBruteForcer</h2>
-
-<img src="http://i.imgur.com/kSmeHEn.jpg" data-canonical-src="https://i.imgur.com/DxZyQit.jpg" style="max-width:100%;">
-
 <h2>Simple brute force script </h2>
 
 [1] WordPress (Auto Detect Username)<br>
@@ -44,18 +40,12 @@
 <h2>Example</h2>
 <code>perl XBruteForcer.pl -l list.txt -p passwords.txt</code>
 <br>
-<h2>BUG ?</h2>
-<ul>
-<li>Submit new issue</li>
-<li>pm me in gmail</li>
-<li>do you want ask about all my tools ? you can add me in <a href="https://fb.me/mohamed.riahi.official.account">https://fb.me/mohamed.riahi.official.account</a></li>
-</ul>
 
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
 git clone https://github.com/HACKGM/crack-admin-site
-cd XBruteForcer
+cd crack-admin-site
 perl XBruteForcer.pl -l list.txt -p passwords.txt 
 ```
 
@@ -67,7 +57,7 @@ Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 cpan install LWP::UserAgent
 cpan install HTTP::Request
 git clone https://github.com/HACKGM/crack-admin-site
-cd XBruteForcer
+cd crack-admin-site
 perl XBruteForcer.pl -l list.txt -p passwords.txt 
 ```
 
